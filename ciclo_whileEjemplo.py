@@ -1,4 +1,5 @@
 #aqui se controla el ciclo con un input osea con lo que capture el usuario
+print("Hola soy cynthia")
 num_1=1
 while num_1<=3:
         #instrucciones
