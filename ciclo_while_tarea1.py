@@ -1,4 +1,5 @@
 #crear un programa que capture las calificasiones
+#Hola soy un comentario de cynthia 
 print("·········································")
 print("Captura las calificasiones de los alumnos")
 
