@@ -1,6 +1,7 @@
 #crear un programa que capture las calificasiones
 print("·········································")
 print("Captura las calificasiones de los alumnos")
+print (".......................................")
 
 lim=1
 limite=int(input("Cuantos alumnos deseas ingresar= "))
@@ -16,5 +17,7 @@ while lim<=limite:
        
         lim=lim+1
 
+print("Lista de Alumnos:")
 print(nombre)
+print ("Lista de Calificaciones: ")
 print(cali)
